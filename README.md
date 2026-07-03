@@ -1,5 +1,5 @@
 ## 1. Global Data Analyst Trends (Power BI)
-![Power BI Dashboard Preview](PowerBI-Trends-Dashboard.jpg)
+![Power BI Dashboard Preview](PowerBI-Trends-Dashboard.jpg.png)
 [Download the raw .pbix file here](Powerbi%20Project.pbix)
 
 ---
